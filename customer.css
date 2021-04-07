@@ -30,13 +30,13 @@ text-align:left;
 
 .navbar-brand{
     font-size: 1.5rem;
-    color: #9A679B!important;
+    color: #58D68D!important;
     
 }
 
 .nav-link{
     float: right;
-    color: #9A679B!important;
+    color: #58D68D!important;
     
 }
 
@@ -47,7 +47,7 @@ text-align:left;
 #main
 {
 	text-align: center;
-background-color:#31326f;
+background-color:#BB8FCE;
 }
 .my-info{
     padding: 2rem 5rem;
